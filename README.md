@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-<!--
-**pbies/pbies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DevOps, Bitcoin BTC, trainings, Docker, Google Cloud Platform, Python
+- 🌱 I’m currently learning GCP, Docker
+- 👯 I’m looking to collaborate on Bitcoin BTC
+- 🤔 I’m looking for help with Google AutoML
+- 💬 Ask me about my portfolio
+- 📫 How to reach me: through my website https://pbies.net/
+- ⚡ Fun fact: I've come back from hacker way
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbies&layout=compact)](https://github.com/pbies/github-readme-stats)
 
