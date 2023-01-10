@@ -12,4 +12,4 @@
 
 ![pbies's github stats](https://github-readme-stats.vercel.app/api?username=pbies&show_icons=true&count_private=true)
 
-Donate: 1pbies8bSRMjPvjLot33yVSihepK55kLh
+Donate BTC: bc1q0rzvhavy4mxv6d8vp3utmy9ucm2u6rp2n8z3rk
