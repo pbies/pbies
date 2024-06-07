@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on DevOps, Bitcoin BTC, Docker, Google Cloud Platform, Python
-- 🌱 I’m currently learning GCP, Docker
+- 🌱 I’m currently learning Ansible, Kubernetes
 - 👯 I’m looking to collaborate on Bitcoin BTC
 - 🤔 I’m looking for help with Google AutoML
 - 💬 Ask me about my portfolio
