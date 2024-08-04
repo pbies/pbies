@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Bitcoin BTC
 - 🤔 I’m looking for help with Google AutoML
 - 💬 Ask me about my portfolio
-- 📫 How to reach me: through my website https://biesiada.pro/
+- 📫 How to reach me: you will find a way
 - ⚡ Fun fact: I've come back from hacker way
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbies&layout=compact)](https://github.com/pbies/github-readme-stats)
