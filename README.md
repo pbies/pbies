@@ -8,8 +8,6 @@
 - 📫 How to reach me: you will find a way
 - ⚡ Fun fact: I've come back from hacker way
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbies&layout=compact)](https://github.com/pbies/github-readme-stats)
-
-![pbies's github stats](https://github-readme-stats.vercel.app/api?username=pbies&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pbies)](https://github.com/pbies/github-readme-stats)
 
 Donate BTC: bc1q3yctzptfa49cczu2x77qlu54pewss2qrv0fd3h
