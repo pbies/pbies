@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Google AutoML
 - 💬 Ask me about my portfolio
 - 📫 How to reach me: you will find a way
-- ⚡ Fun fact: I've come back from hacker way
+- ⚡ Fun fact: I've came back from hacker way
 
 Donate BTC: bc1q3yctzptfa49cczu2x77qlu54pewss2qrv0fd3h
 
